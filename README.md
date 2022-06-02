@@ -1,4 +1,4 @@
-2nd Year BSc(Hons) CS Student with a passion for ML and AI
+3rd Year BSc(Hons) CS Student with a passion for ML and AI
 
 Looking to expand my repertoire and work on open source code
 
